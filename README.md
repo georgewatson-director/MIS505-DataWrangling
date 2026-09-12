@@ -3,7 +3,7 @@ Course Projects and Projects Based on Them
 
 The tables in this repository all have the same format, each containing the same data for different countries.
 
-The format, in JSON, is as follows:
+The format, in JSON in the TableDescriptor.json file, is as follows (This display does not format JSON properly):
 
 {
     "tableName": "Assignment8_Argentina",

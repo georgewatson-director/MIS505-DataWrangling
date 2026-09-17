@@ -13,3 +13,4 @@ The source data which PortfolioProject.py uses to produce its output was downloa
 	API_SE.PRM.ENRL_DS2_en_csv_v2_4538564-1.zip:
 			https://csuglobal.instructure.com/courses/120813/files/9754904?wrap=1
 
+pandas_gui_app.py is a PyQt5 GUI front end for the Pandas DataFrame.  You can load and explore CSV files as Pandas DataFrames with it.  Dependencies, such as PyQt5, will need to be installed before running it.
